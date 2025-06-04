@@ -2,11 +2,11 @@
 
 The Murphleague 2025 Championship will be decided by a 3-part open tournament series. The playoffs will be held from INSERT DATES The breakdown will be as follows:
 
--50 Seeds of [Emerald NATDEX Duomon]()
+-40 Seeds of [Emerald NATDEX Duomon]()
 
 -50 Seeds of [Heartgold Murphmon]()
 
--50 Seed of [Firered Monomon]()
+-60 Seed of [Firered Monomon]()
 
 Competitors' final score will be their cumulative score consisting of their top score from from each mode. (Best FR Mono + Best Emerald Duo + Best Heartgold Murph). Gamemode seeds must be completed in the order above though competitors will not be required to complete all 50 seeds if they are satisfied with their scores and would like more time for the other games.
 
@@ -14,7 +14,32 @@ Scoring Breakdown per mode:
 
 |Emerald NATDEX Duomon|Heartgold Murphmon|Firered Monomon|
 |-|-|-|
-|Rox|Faulk|Brock|
+|Roxanne|Faulkner|Brock (2)|
+|Brawley (2)|Slowpoke Exec|Mt. Moon Exit|
+|Cycle Road Rival|Bugsy|Misty|
+|Wattson|Whitney|Surge|
+|Mt. Chimney Maxie|Morty (3)|Rock Tunnel Exit|
+|Flannery|Chuck|Gio Hideout(2)|
+|Dad (2)|Jasmine|Erika|
+|Winona|Exec Arianna|Koga|
+|Lilycove Rival|Pryce|Gio Silph|
+|Magma Hideout Maxie|Archer|Sabrina|
+|Tate and Liza|Clair|Blaine|
+|Maxie Tandem Fight|VR Rival|Gio|
+|Archie|Will|Lorelei|
+|Juan|Koga|Bruno|
+|Wally|Bruno|Agatha|
+|Sidney|Karen|Lance (2)|
+|Phoebe|Lance (3)|Champ (3)|
+|Glacia|Brock|N/A|
+|Drake|Misty|N/A|
+|Wallace(3)|Surge|N/A|
+|Steven(3)|Erika|N/A|
+|N/A|Janine|N/A|
+|N/A|Sabrina|N/A|
+|N/A|Blaine|N/A|
+|N/A|Blue|N/A|
+|N/A|Red (3)|N/A|
 
 # Blessings and Banes
 
