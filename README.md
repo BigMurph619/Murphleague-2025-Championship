@@ -49,7 +49,14 @@ Competitors will each draft both a "Blessing" and a "Bane" that will apply for t
 
 |Blessings|Banes|
 |-|-|
-|Free win|Metronome only|
+|Mulligan Token - "Retry the Battle" and continue the run ONCE during each format | Rookie Mistake - On the first turn of combat against First trainer, first trainer in each gym, each gym leader) you must throw a ball.|
+|Battle Pro - You may equip any one non-consumable held item (Healing items not allowed). Allowed to swap? | Vampyric Touch - If you pick up a HP healing non-consumable held item (leftovers, shell bell) you must discard one HP heal that heals less than 50% of your current max HP, if you have one. |
+| Shopaholic - You may purchase one item from any shop once per seed. | CHANGE LUM A DAY |
+| Giant Slayer - If your rival's ace is higher BST, you may purchase 1 healing item from the next accessible mart each time you defeat it | Siren Song - You cannot use items while an opponent has a water type pokemon on the field, you must attack |
+| Ace - beating a gym without taking damage allows you to purchase the smallest heal in that city. | REPLACE TRANSLATOR |
+| Hades Token (how many?) - If you die outside of a gym you may continue the run only by going directly into the next gym and winning. | Tracker Lacker - You must keep the tracker on an unhelpful page throughout Boss fights |
+| 
+
 
 ^^Update to draft results afterwards
 
