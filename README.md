@@ -1,4 +1,4 @@
-# Murphleague-2025-Championship
+| # Murphleague-2025-Championship
 
 The Murphleague 2025 Championship will be decided by a 3-part open tournament series hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). The playoffs will be held from November 7th Midnight PST - November 24th Midnight PST. The breakdown will be as follows:
 
@@ -55,7 +55,10 @@ Competitors will each draft both a "Blessing" and a "Bane" that will apply for t
 | Giant Slayer - If your rival's ace is higher BST, you may purchase 1 healing item from the next accessible mart each time you defeat it | Siren Song - You cannot use items while an opponent has a water type pokemon on the field, you must attack |
 | Ace - beating a gym without taking damage allows you to purchase the smallest heal in that city. | REPLACE TRANSLATOR |
 | Hades Token (how many?) - If you die outside of a gym you may continue the run only by going directly into the next gym and winning. | Tracker Lacker - You must keep the tracker on an unhelpful page throughout Boss fights |
-| 
+| BST Booster - Allows a raise in allowed BST pokemon. 600? | Decay - Must toss 1 HP heal after defeating each gym leader (if you have one). |
+| Double DIp - 1 Non-Gym Dungeon re-entry per seed | REPLACE IMPULSIVE FORCE |
+| Going Rogue - Once per seed you may heal outside of battle (hp, status, pp) | Fruit Allergy - You may not HOLD any berries |
+
 
 
 ^^Update to draft results afterwards
