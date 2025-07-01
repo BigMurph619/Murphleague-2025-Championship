@@ -66,6 +66,6 @@ Title of the Murphleague 2025 Champion. Engraved Trophy, 5 Charizard Cards. Cust
 
 
 
-Additional awards provided from the (Pledge Page)[https://discord.gg/cqjd4ksZ].
+Additional awards provided from the [Pledge Page](https://discord.gg/cqjd4ksZ).
 
 Good Luck Challengers.
