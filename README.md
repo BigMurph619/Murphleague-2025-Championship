@@ -10,7 +10,7 @@ The Murphleague 2025 Championship will be decided by a 3-part open tournament se
 
 Competitors' final score will be their cumulative score consisting of their top score from from each mode. (Best NATDEX Emerald Duomon + Best Heartgold Murphmon + Best Firered Monomon). Gamemode seeds must be completed in the order above though competitors will not be required to complete all seeds of each game mode if they are satisfied with their scores and would like more time for the other games.
 
-Scoring Breakdown per mode:
+## Scoring Breakdown per mode:
 
 |Emerald NATDEX Duomon|Heartgold Murphmon|Firered Monomon|
 |-|-|-|
@@ -43,7 +43,7 @@ Scoring Breakdown per mode:
 
 There will be no bonus points during playoffs
 
-# Blessings and Banes
+## Blessings and Banes
 
 Competitors will each draft both a "Blessing" and a "Bane" that will apply for the entirety of the playoffs. Draft order will be decided by competitors' final standings from the Murphleague regular season with higher seeds selecting first. The competitors must choose from the below options.
 
@@ -60,8 +60,7 @@ Competitors will each draft both a "Blessing" and a "Bane" that will apply for t
 | Going Rogue - Once per seed you may heal outside of battle (hp, status, pp) | Fruit Allergy - You may not HOLD any berries |
 
 
-
-# Awards
+## Awards
 
 Title of the Murphleague 2025 Champion. Engraved Trophy, 5 Charizard Cards. Custom emotes from kipoterp.
 
