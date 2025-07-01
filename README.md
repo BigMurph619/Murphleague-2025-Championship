@@ -61,11 +61,9 @@ Competitors will each draft both a "Blessing" and a "Bane" that will apply for t
 
 
 
-^^Update to draft results afterwards
-
 #Awards
 
-Title of the Murphleague 2025 Champion. Engraved Trophy, 5 Charizard Cards. Custom emotes from kipoterp. INSERT PICTURES BELOW.
+Title of the Murphleague 2025 Champion. Engraved Trophy, 5 Charizard Cards. Custom emotes from kipoterp.
 
 Additional awards provided from the Pledge Page.
 
