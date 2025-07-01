@@ -51,12 +51,12 @@ Competitors will each draft both a "Blessing" and a "Bane" that will apply for t
 |-|-|
 |Mulligan Token - "Retry the Battle" and continue the run ONCE during each format | Rookie Mistake - On the first turn of combat against the FIRST trainer after the rival fight you must throw a ball.|
 |Battle Pro - You may equip any one non-consumable held item (Healing items not allowed). You must commit to the item you choose. | Vampyric Touch - If you pick up a HP healing non-consumable held item (leftovers, shell bell) you must discard one HP heal that heals less than 50% of your current max HP, if you have one. |
-| Shopaholic - You may purchase one item from any shop once per seed. | CHANGE LUM A DAY |
+| Shopaholic - You may purchase one item from any shop once per seed. | No Guarantees - Must have one non 100% accurate in your moveset at earliest availability (cant miss moves count as 100 percent accurate) |
 | Giant Slayer - If your rival's ace is higher BST, you may purchase 1 healing item from the next accessible mart each time you defeat it | Siren Song - You cannot use items while an opponent has a water type pokemon on the field, you must attack |
-| Ace - beating a gym without taking damage allows you to purchase the smallest heal in that city. | REPLACE TRANSLATOR |
+| Ace - beating a gym without taking damage allows you to purchase the smallest heal in that city. | Gym Fees - Must drop one hp or status healing item each time you enter a gym (if you have one) |
 | Hades Token (Once per format) - If you die outside of a gym you may continue the run only by going directly into the next gym and winning. You may only fight mandatories en route to the next gym. | Tracker Lacker - You must keep the tracker on an unhelpful page throughout Boss fights |
 | BST Booster - Allows a raise in allowed BST pokemon to 600 (Legends/mythics still banned for non-NATDEX formats. | Decay - Must toss 1 HP heal after defeating each gym leader (if you have one). |
-| Double DIp - 1 Non-Gym Dungeon re-entry per seed | REPLACE IMPULSIVE FORCE |
+| Double DIp - 1 Non-Gym Dungeon re-entry per seed | Impulse - Use rare candies, pp ups/maxes, TMs, and vitamins right away or toss (Murphmon exempt pre-pivot) |
 | Going Rogue - Once per seed you may heal outside of battle (hp, status, pp) | Fruit Allergy - You may not HOLD any berries |
 
 
