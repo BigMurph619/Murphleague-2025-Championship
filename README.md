@@ -1,4 +1,4 @@
-| # Murphleague-2025-Championship
+ # Murphleague-2025-Championship
 
 The Murphleague 2025 Championship will be decided by a 3-part open tournament series hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). The playoffs will be held from November 7th Midnight PST - November 24th Midnight PST. The breakdown will be as follows:
 
@@ -49,13 +49,13 @@ Competitors will each draft both a "Blessing" and a "Bane" that will apply for t
 
 |Blessings|Banes|
 |-|-|
-|Mulligan Token - "Retry the Battle" and continue the run ONCE during each format | Rookie Mistake - On the first turn of combat against First trainer, first trainer in each gym, each gym leader) you must throw a ball.|
-|Battle Pro - You may equip any one non-consumable held item (Healing items not allowed). Allowed to swap? | Vampyric Touch - If you pick up a HP healing non-consumable held item (leftovers, shell bell) you must discard one HP heal that heals less than 50% of your current max HP, if you have one. |
+|Mulligan Token - "Retry the Battle" and continue the run ONCE during each format | Rookie Mistake - On the first turn of combat against the FIRST trainer after the rival fight you must throw a ball.|
+|Battle Pro - You may equip any one non-consumable held item (Healing items not allowed). You must commit to the item you choose. | Vampyric Touch - If you pick up a HP healing non-consumable held item (leftovers, shell bell) you must discard one HP heal that heals less than 50% of your current max HP, if you have one. |
 | Shopaholic - You may purchase one item from any shop once per seed. | CHANGE LUM A DAY |
 | Giant Slayer - If your rival's ace is higher BST, you may purchase 1 healing item from the next accessible mart each time you defeat it | Siren Song - You cannot use items while an opponent has a water type pokemon on the field, you must attack |
 | Ace - beating a gym without taking damage allows you to purchase the smallest heal in that city. | REPLACE TRANSLATOR |
-| Hades Token (how many?) - If you die outside of a gym you may continue the run only by going directly into the next gym and winning. | Tracker Lacker - You must keep the tracker on an unhelpful page throughout Boss fights |
-| BST Booster - Allows a raise in allowed BST pokemon. 600? | Decay - Must toss 1 HP heal after defeating each gym leader (if you have one). |
+| Hades Token (Once per format) - If you die outside of a gym you may continue the run only by going directly into the next gym and winning. You may only fight mandatories en route to the next gym. | Tracker Lacker - You must keep the tracker on an unhelpful page throughout Boss fights |
+| BST Booster - Allows a raise in allowed BST pokemon to 600 (Legends/mythics still banned for non-NATDEX formats. | Decay - Must toss 1 HP heal after defeating each gym leader (if you have one). |
 | Double DIp - 1 Non-Gym Dungeon re-entry per seed | REPLACE IMPULSIVE FORCE |
 | Going Rogue - Once per seed you may heal outside of battle (hp, status, pp) | Fruit Allergy - You may not HOLD any berries |
 
