@@ -47,7 +47,7 @@ There will be no bonus points during playoffs
 
 Competitors will each draft both a "Blessing" and a "Bane" that will apply for the entirety of the playoffs. Draft order will be decided by competitors' final standings from the Murphleague regular season with higher seeds selecting first. The competitors must choose from the below options.
 
-|### Blessings|### Banes|
+| ### Blessings| ### Banes|
 |-|-|
 |Mulligan Token - "Retry the Battle" and continue the run ONCE during each format | Rookie Mistake - On the first turn of combat against the FIRST trainer after the rival fight you must throw a ball.|
 |Battle Pro - You may equip any one non-consumable held item (Healing items not allowed). You must commit to the item you choose. | Vampyric Touch - If you pick up a HP healing non-consumable held item (leftovers, shell bell) you must discard one HP heal that heals less than 50% of your current max HP, if you have one. |
